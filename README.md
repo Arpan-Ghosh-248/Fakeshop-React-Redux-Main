@@ -2,7 +2,8 @@
 This is my fakeshop website
 # FakeShop
 Learn about HTML/CSS/Bootstap/React/Redux through creation.
-<img width="1436"![Screenshot 1443-12-26 at 11 48 59 PM](https://user-images.githubusercontent.com/102286564/181180390-e1055cd3-fc31-4f88-b157-6ae095b449b6.png)
+![Screenshot 2022-11-24 at 3 32 28 PM](https://user-images.githubusercontent.com/113170296/203756932-b5811d31-ed77-49cf-be39-b3b37c9b3323.png)
+
 ## Tech used
 * HTML
 * CSS
